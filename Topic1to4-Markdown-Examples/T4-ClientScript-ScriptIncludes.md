@@ -1,4 +1,4 @@
-# TOPIC 4: 
+# TOPIC 4: Create a Dynamic Manager information when a Manager is selected (Similar to Topic 2)
 
 ## 1. Create a Client Script Similar to the Topic 2
 
