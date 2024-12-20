@@ -1,4 +1,4 @@
-# TOPIC 3: 
+# TOPIC 3: Let Managers take over the Incidents that were Assigned to the User, using Business Rules and GlideRecord 
 
 ## 1. Create a Bussiness Rule 
 
