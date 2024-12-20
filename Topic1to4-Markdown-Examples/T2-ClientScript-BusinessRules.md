@@ -1,4 +1,4 @@
-# TOPIC 2: Creating onLoad ScratchPad
+# TOPIC 2: Create a ScratchPad for Manager Info, using ClientScript and Business Rule
 
 ## 1. Create a Client Script for the Scratch Pads
 
